@@ -144,9 +144,10 @@ ul {
 @media (max-width: 600px) {
   .input-section {
     flex-direction: column;
+    padding: 20px;
   }
 
-  .add-button {
+  /* .add-button {
     padding: 10px;
-  }
+  } */
 }

@@ -144,6 +144,6 @@ ul {
 @media (max-width: 600px) {
   .input-section {
     flex-direction: column;
-    padding: 18px;
+    padding-top: 20px;
   }
 }

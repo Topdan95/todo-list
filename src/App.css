@@ -139,3 +139,16 @@ ul {
 .delete-button:hover {
   background-color: darkred;
 }
+
+/* Mobile Layout */
+@media (max-width: 600px) {
+  .input-section {
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+  }
+
+  .task-input, .add-button {
+    width: 100%;
+  }
+}

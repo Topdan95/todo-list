@@ -146,7 +146,7 @@ ul {
     flex-direction: column;
   }
 
-  .task-input, .add-button {
-    padding: 20px;
+  .add-button {
+    padding-top: 10px;
   }
 }

@@ -149,5 +149,6 @@ ul {
 
   .task-input {
     width: 200px;
+    top: 10px;
   }
 }

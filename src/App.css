@@ -144,11 +144,9 @@ ul {
 @media (max-width: 600px) {
   .input-section {
     flex-direction: column;
-    gap: 15px;
-    width: 100%;
   }
 
   .task-input, .add-button {
-    width: 100%;
+    padding: 20px;
   }
 }
